@@ -1,1 +1,1 @@
-# CMP-Project
+# Connect4
